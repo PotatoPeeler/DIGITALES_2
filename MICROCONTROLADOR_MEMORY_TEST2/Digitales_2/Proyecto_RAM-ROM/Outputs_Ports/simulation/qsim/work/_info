@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LENOVO\Documents\Digitales_II\Proyecto_RAM-ROM\Outputs_Ports\simulation\qsim
+vOutputs_Ports1
+Z1 IZB<fb]k3Pd473@`5J>i^91
+Z2 VSQomkE@<82T^1A4_a;Cm=2
+Z3 dC:\Users\LENOVO\Documents\Digitales_II\Proyecto_RAM-ROM\Outputs_Ports\simulation\qsim
+Z4 w1667490668
+Z5 8Outputs_Ports1.vo
+Z6 FOutputs_Ports1.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@outputs_@ports1
+!i10b 1
+Z10 !s100 [GGU;U8HKjUHinLPJ07NY1
+!s85 0
+Z11 !s108 1667490669.717000
+Z12 !s107 Outputs_Ports1.vo|
+Z13 !s90 -work|work|Outputs_Ports1.vo|
+!s101 -O0
+vOutputs_Ports1_vlg_check_tst
+!i10b 1
+!s100 zF9ch[nGfcXaJa:HNb7Qj2
+IQ`UF]n1>XkN=C5U8`UE952
+V=51<BMLU=WCS4M^<Fc3N62
+R3
+Z14 w1667490666
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 65
+R7
+r1
+!s85 0
+31
+Z17 !s108 1667490669.896000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@outputs_@ports1_vlg_check_tst
+vOutputs_Ports1_vlg_sample_tst
+!i10b 1
+!s100 >@eg=7A:gLNlzzkk:4oYS0
+Ig2XBeHESC@X9O0@6JSdFS2
+VXB6L0zI]iVbnD[NK>W0dW1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@outputs_@ports1_vlg_sample_tst
+vOutputs_Ports1_vlg_vec_tst
+!i10b 1
+!s100 2F=3aF7kX`<gQmVG0`JfH3
+I<HEMblQGZj]IRbA30d<[51
+VQ^RF>jgA`i4n4j@6jJfIc0
+R3
+R14
+R15
+R16
+L0 741
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@outputs_@ports1_vlg_vec_tst

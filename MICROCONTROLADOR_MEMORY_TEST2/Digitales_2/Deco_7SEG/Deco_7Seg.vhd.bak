@@ -1,0 +1,8 @@
+library ieee;
+use ieee.STD_LOGIC_1164.ALL;
+
+entity Deco_7Seg is
+port (A,B,C,D : in bit;
+		F,G,H,I,J,K,L,M      : out bit);
+		
+end entity;

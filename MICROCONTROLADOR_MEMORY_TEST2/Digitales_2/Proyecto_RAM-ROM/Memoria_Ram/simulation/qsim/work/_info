@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LENOVO\Documents\Digitales_II\Proyecto_RAM-ROM\Memoria_Ram\simulation\qsim
+vRAM_16x8_sync
+Z1 !s100 oY4jZ_`6M0MA7Xm>OIXJ]2
+Z2 IzNcmba;G8GJFn8<RmNiPd2
+Z3 VhA`2FIQ4:z5[Z1jc5=g5j0
+Z4 dC:\Users\LENOVO\Documents\Digitales_II\Proyecto_RAM-ROM\Memoria_Ram\simulation\qsim
+Z5 w1667488126
+Z6 8RAM_16x8_sync.vo
+Z7 FRAM_16x8_sync.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|RAM_16x8_sync.vo|
+Z10 o-work work -O0
+Z11 n@r@a@m_16x8_sync
+!i10b 1
+!s85 0
+Z12 !s108 1667488127.595000
+Z13 !s107 RAM_16x8_sync.vo|
+!s101 -O0
+vRAM_16x8_sync_vlg_check_tst
+!i10b 1
+Z14 !s100 z^fTRWV^a[1DS0Z]?c3k:3
+Z15 IQU6;Ia>[jHO;3OA^U[24l3
+Z16 VFAkblSC1>H:mg>kj0<Wcb2
+R4
+Z17 w1667488123
+Z18 8Waveform2.vwf.vt
+Z19 FWaveform2.vwf.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z20 !s108 1667488128.444000
+Z21 !s107 Waveform2.vwf.vt|
+Z22 !s90 -work|work|Waveform2.vwf.vt|
+!s101 -O0
+R10
+Z23 n@r@a@m_16x8_sync_vlg_check_tst
+vRAM_16x8_sync_vlg_sample_tst
+!i10b 1
+Z24 !s100 Amg<5SZT94H3MNT]J4Dnm2
+Z25 IFK62PW2H]3[0PdR<:4[IK3
+Z26 Vnn_1@^NWY]U6ROnJe@IdQ3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@r@a@m_16x8_sync_vlg_sample_tst
+vRAM_16x8_sync_vlg_vec_tst
+!i10b 1
+Z28 !s100 i[<m2@E=z<`KKFoTF3@^:0
+Z29 IUXGYjOWC?e2mf^Bl`l55]3
+Z30 V>HF=FO@=P2O7CLkh8=1oF2
+R4
+R17
+R18
+R19
+Z31 L0 283
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@r@a@m_16x8_sync_vlg_vec_tst

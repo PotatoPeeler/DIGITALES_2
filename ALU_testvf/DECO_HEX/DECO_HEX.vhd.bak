@@ -1,0 +1,14 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+
+entity DECO_HEX is
+		port(hex: in std_logic_vector(3 down to 0)
+			  seg: out std_logic_vector(6 down to 0)
+			  disp:out std_logic_vector(3 down to 0);)
+			  
+end entity;
+
+architecture DECO_HEX_arch of DECO_HEX is
+begin

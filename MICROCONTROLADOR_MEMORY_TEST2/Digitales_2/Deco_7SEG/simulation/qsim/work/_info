@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Logicos\Documents\Digitales_2\Deco_7SEG\simulation\qsim
+vDeco_7Seg
+Z1 Ib2_h>ZoSbFdcRHF?2SXKT2
+Z2 V=a2<:c8MIo[ON2;[c[C9Y2
+Z3 dC:\Users\Logicos\Documents\Digitales_2\Deco_7SEG\simulation\qsim
+Z4 w1664975530
+Z5 8Deco_7Seg.vo
+Z6 FDeco_7Seg.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@deco_7@seg
+!i10b 1
+Z10 !s100 VhFZ9hon@L831l:k5f;dA2
+!s85 0
+Z11 !s108 1664975531.492000
+Z12 !s107 Deco_7Seg.vo|
+Z13 !s90 -work|work|Deco_7Seg.vo|
+!s101 -O0
+vDeco_7Seg_vlg_check_tst
+!i10b 1
+!s100 M_PVf9RZob=MKJfhS;dbP2
+IA4NbI59>lNohO<i1J2eUF0
+VA7A^WlH8S<70LzNn;_L4S3
+R3
+Z14 w1664975528
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1664975531.555000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@deco_7@seg_vlg_check_tst
+vDeco_7Seg_vlg_sample_tst
+!i10b 1
+!s100 ?Zci1ZmGEGVmdET<EL4f]0
+IXeffDMUoD>Il;UOziEm]`2
+VNI0nKnV>4YK8c7OnmLnQ10
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@deco_7@seg_vlg_sample_tst
+vDeco_7Seg_vlg_vec_tst
+!i10b 1
+!s100 >Az0ASE4OGEC:jh6R>13F2
+I:eN7B81k@3D>?`=OLXSQ<0
+VDlLoJlAo]c8VX`0Pa>>oH3
+R3
+R14
+R15
+R16
+L0 265
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@deco_7@seg_vlg_vec_tst

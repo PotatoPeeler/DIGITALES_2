@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LENOVO\Documents\Digitales_II\DECO_HEX\simulation\qsim
+vDECO_HEX
+Z1 Iikj?zOSSI<JK4hgM;l[ki0
+Z2 VADgOaBfK^7jR8]UWjXGWF0
+Z3 dC:\Users\LENOVO\Documents\Digitales_II\DECO_HEX\simulation\qsim
+Z4 w1666882173
+Z5 8DECO_HEX.vo
+Z6 FDECO_HEX.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@d@e@c@o_@h@e@x
+!i10b 1
+Z10 !s100 z@;dfC^GVjU8EkzVV05nj3
+!s85 0
+Z11 !s108 1666882175.452000
+Z12 !s107 DECO_HEX.vo|
+Z13 !s90 -work|work|DECO_HEX.vo|
+!s101 -O0
+vDECO_HEX_vlg_check_tst
+!i10b 1
+!s100 CfR3RS8Dh191kY^;nPIMH0
+IC=7_Gk=MPME]FD7D5DHMG1
+Vb0Df<eYEn[RV5`0ijWImM2
+R3
+Z14 w1666882171
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1666882175.583000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@d@e@c@o_@h@e@x_vlg_check_tst
+vDECO_HEX_vlg_sample_tst
+!i10b 1
+!s100 HK@Z90j>OBi7VimIlo_4]2
+I=M3YOZ1N2HG:k82YIOGf?3
+VLT6>?gB=nmm=C9njZ]EVe0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@d@e@c@o_@h@e@x_vlg_sample_tst
+vDECO_HEX_vlg_vec_tst
+!i10b 1
+!s100 1CTUTleOTjCAKoWJT9:[Z3
+Ia9T7M<NXTD:R^gjl@^18O2
+VHY=9TUX5?<J1VLH[N=2183
+R3
+R14
+R15
+R16
+L0 265
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@d@e@c@o_@h@e@x_vlg_vec_tst

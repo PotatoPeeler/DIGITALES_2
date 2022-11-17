@@ -1,0 +1,36 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity MemoriaROM is
+	port (clk : in std_logic;
+			address : in std_logic_vector(3 downto 0);
+			data_out : out std_logic_vector(7 downto 0)); //  salida en hexadecimal
+end entity;
+
+architecture MemoriaROM_arch of MemoriaROM is
+	type ROM_tipo is array (0 to 7) of std_logic_vector(7 downto 0);
+	constant ROM : Rom_tipo:= (0 => x"00",
+										1 => x"11",
+										3 => x"00",
+										4 => x"11",
+										5 => x"00",
+										6 => x"11",
+										7 => x"00",
+										8 => x"11",
+										9 => x"00",
+										10 => x"11",
+										11 => x"00",
+										12 => x"11",
+										13 => x"00",
+										14 => x"11",
+										15 => x"00");
+										
+	begin
+		MEMORY : process (clk)
+			begin
+				if (clk'event and clk='1')then
+					data_out <= ROM(to_integer(unsigned(address)));
+				end if;
+		end process;		
+end architecture;

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LENOVO\Documents\Digitales_II\ALU_testvf\Half_adder\simulation\qsim
+vHalf_adder
+Z1 !s100 ?M9zI2]zBQJM1NmVf^T7V1
+Z2 IRJ8PMT4ESUQC`6ZZiN9I=0
+Z3 VkWG]OoaVU<2C@[YH@Z_2g2
+Z4 dC:\Users\LENOVO\Documents\Digitales_II\ALU_testvf\Half_adder\simulation\qsim
+Z5 w1668550285
+Z6 8Half_adder.vo
+Z7 FHalf_adder.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Half_adder.vo|
+Z10 o-work work -O0
+Z11 n@half_adder
+!i10b 1
+!s85 0
+Z12 !s108 1668550286.698000
+Z13 !s107 Half_adder.vo|
+!s101 -O0
+vHalf_adder_vlg_check_tst
+!i10b 1
+Z14 !s100 78m11Wb;JZ@;j^5k5NhD02
+Z15 I0oVLjBH@;<I76UdOa8Fg=3
+Z16 VCQk]fClN;VB41_iJ`EO]^2
+R4
+Z17 w1668550283
+Z18 8Waveform1.vwf.vt
+Z19 FWaveform1.vwf.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z20 !s108 1668550286.818000
+Z21 !s107 Waveform1.vwf.vt|
+Z22 !s90 -work|work|Waveform1.vwf.vt|
+!s101 -O0
+R10
+Z23 n@half_adder_vlg_check_tst
+vHalf_adder_vlg_sample_tst
+!i10b 1
+Z24 !s100 U[Z@KVAVdoRaKYg@D?UjF2
+Z25 IJ^UGmJf24VB6CMM@G17cz3
+Z26 VJcc3h9HWcb67YmD8jERL@3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@half_adder_vlg_sample_tst
+vHalf_adder_vlg_vec_tst
+!i10b 1
+!s100 PPTE:]be]H60mi4;WPbi60
+I>U4?_D8RS6ELo>W3gW8Xg3
+Z28 V<6kXG44e9iaelT;KSILb>3
+R4
+R17
+R18
+R19
+Z29 L0 312
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@half_adder_vlg_vec_tst
